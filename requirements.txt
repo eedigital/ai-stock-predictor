@@ -1,0 +1,22 @@
+numpy
+pandas
+scikit-learn
+yfinance
+matplotlib
+To generate it:
+
+Run:
+pip freeze > requirements.txt
+Upload the file to your repository.
+3. Deploy a Demo
+Option A: Streamlit Cloud
+
+Create a Streamlit app for interactive predictions and deploy it on Streamlit Cloud.
+Users can interact with the app via a web interface.
+Option B: Google Colab
+
+Create a Google Colab notebook and share it with others. Provide a link in your README.md.
+4. Share Your Repository
+Once you've updated the repository with the above files, share the link to your repository:
+
+https://github.com/eedigital/ai-stock-predictor
